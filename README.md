@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# database-repo
+git clone git@github.com:chiragtilwani/dbms-pms-database.git
+
 ## Available Scripts
 
 In the project directory, you can run:
