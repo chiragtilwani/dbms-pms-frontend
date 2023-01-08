@@ -62,32 +62,32 @@ function Footer() {
         <div className="footer_links">
           <h2 className="footer_title">Get in Touch</h2>
           <a
-            href="https://jssateb.ac.in/"
+            href="https://www.sapthagiri.edu.in/home/"
             target="blank"
             className="footer_link"
           >
-            JSSATEB
+            SCE HOME
           </a>
           <a
-            href="https://www.facebook.com/JSSATEBlore"
+            href="https://www.facebook.com/SCEBengaluru2001?modal=admin_todo_tour"
             target="blank"
             className="footer_link"
           >
-            Facebook
+            FACEBOOK
           </a>
           <a
-            href="https://www.youtube.com/watch?v=MRw-MADIXe0"
+            href="https://www.youtube.com/channel/UC7CQf-ButBsrY0L_5wNh43Q"
             target="blank"
             className="footer_link"
           >
-            Youtube
+            YOUTUBE
           </a>
           <a
-            href="https://twitter.com/jssateb"
+            href="https://www.instagram.com/sce.bengaluru/"
             target="blank"
             className="footer_link"
           >
-            Twitter
+            INSTAGRAM
           </a>
         </div>
       </div>

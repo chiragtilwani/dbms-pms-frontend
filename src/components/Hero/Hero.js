@@ -6,13 +6,13 @@ function Hero() {
   return (
     <div className="hero">
       <div className="hero_content">
-        <h1 className="animate-hero">JSSATE</h1>
+        <h1 className="animate-hero">SCE</h1>
         <p className="animate-hero">
           <Typewriter
             options={{
               strings: [
                 "Placement Management System",
-                "Developed by Rahul & Shivang",
+                "Developed by Chirag & Animesh",
               ],
               autoStart: true,
               loop: true,
